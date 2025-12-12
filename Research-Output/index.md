@@ -3,4 +3,8 @@ layout: default
 title: Research Output
 ---
 
-# Research Output（Downloadable）
+# Research Output
+
+Please select a category to view:
+
+- [Awards](Awards/)

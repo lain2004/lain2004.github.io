@@ -8,7 +8,7 @@ title: Research Output
 Please select a category to view:
 
 - [Awards](Awards/)
-- [Poster](Research-Output/Poster_Presentation/)
+- [Poster](Research-Output/Poster/)
 - [Manuscripts](Manuscripts/)
 
   

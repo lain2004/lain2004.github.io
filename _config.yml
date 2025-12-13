@@ -1,17 +1,11 @@
+title: huginn
+description: Research & MSc Application Materials
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-title: huginn
-description: Research & MSc Application Materials
-
-github:
-  is_project_page: false
-
+# 最基本的导航
 navigation:
   - title: Home
     url: /
-  - title: Research Output
-    url: /Research-Output/
-  - title: MSc Application Materials
-    url: /MSc-Application/
+

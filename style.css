@@ -1,0 +1,23 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 40px;
+}
+
+nav {
+  margin-bottom: 40px;
+}
+
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #355c7d;   /* 导航颜色 */
+  font-weight: 500;
+}
+
+nav a:hover {
+  color: #6c5b7b;   /* 悬停颜色 */
+}
+
+main h1 {
+  font-size: 2.2rem;
+}

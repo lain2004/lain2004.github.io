@@ -1,23 +1,37 @@
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  margin: 40px;
+  margin: 0;
+  font-family: serif;
+}
+
+.layout {
+  display: flex;
+  min-height: 100vh;
 }
 
 nav {
-  margin-bottom: 40px;
+  width: 220px;
+  padding: 2rem 1.5rem;
+  background-color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
 }
 
 nav a {
-  margin-right: 20px;
   text-decoration: none;
-  color: #355c7d;   /* 导航颜色 */
-  font-weight: 500;
+  color: #222;
+  font-size: 1rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
 }
 
 nav a:hover {
   color: #6c5b7b;   /* 悬停颜色 */
 }
 
-main h1 {
-  font-size: 2.2rem;
+main {
+  flex: 1;
+  padding: 3rem;
 }

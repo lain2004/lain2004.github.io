@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 修改导航链接颜色 */
+nav a {
+  color: #2a7fff;
+}
+
+/* 悬停颜色 */
+nav a:hover {
+  color: #ff6f91;
+}

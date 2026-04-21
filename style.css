@@ -23,15 +23,22 @@ nav a {
   font-size: 1rem;
 }
 
-nav a:hover {
-  text-decoration: underline;
-}
 
 nav a:hover {
-  color: #6c5b7b;   /* 悬停颜色 */
+  text-decoration: underline;
+  color: #6c5b7b;
 }
 
 main {
   flex: 1;
   padding: 3rem;
+}
+
+
+h1 {
+  margin-bottom: 3rem;
+}
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
 }
